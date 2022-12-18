@@ -1,0 +1,98 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  
+  
+
+    <div class="top1">
+        <div class="top2">
+<div class="top3">
+<input type="text" id="demo" value="">
+</div>
+<div class="top4">
+<button onclick="calculate(1)">1</button>
+<button onclick="calculate(2)">2</button>
+<button onclick="calculate(3)">3</button>
+<button onclick="calculate(4)">4</button>
+<button onclick="calculate(5)">5</button>
+<button onclick="calculate(6)">6</button>
+<button onclick="calculate(6)">7</button>
+<button onclick="calculate(6)">8</button>
+<button onclick="calculate(6)">9</button>
+<button onclick="calculate(6)">0</button>
+
+<button onclick="calculate('+')">+</button>
+<button onclick="calculate('-')">-</button>
+<button onclick="calculate('*')">*</button>
+<button onclick="calculate('/')">/</button>
+<button onclick="calculate1('=')">=</button>
+<button onclick="calculate2('c')">C</button>
+<button onclick="calculate3()">DEL</button>
+</div>
+</div>
+</div>
+
+   <script src="./script.js"></script> 
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="./style.css">
+   
+</head>
+<body>
+   
+    <div class="container">
+        <form name="form">
+            <input id="demo" name="textview">
+        </form>
+            <table>
+                <tr>
+                        <td><input class="allclearButton" type="button" value="AC" onclick="calculate3()"></td>
+                        <td><input class="button" type="button" value="C" onclick="calculate2('c')"></td>
+                        <td><input class="button" type="button" value="/" onclick="calculate('/')"></td>
+                        <td><input class="button" type="button" value="*" onclick="calculate('*')"></td>
+                </tr>
+                <tr>
+                        <td><input class="button" type="button" value="7" onclick="calculate(7)"></td>
+                        <td><input class="button" type="button" value="8" onclick="calculate(8)"></td>
+                        <td><input class="button" type="button" value="9" onclick="calculate(9)"></td>
+                        <td><input class="button" type="button" value="-" onclick="calculate('-')"></td>
+                 </tr>
+                 <tr>
+                        <td><input class="button"  type="button" value="4" onclick="calculate(4)"></td>
+                        <td><input class="button" type="button" value="5" onclick="calculate(5)"></td>
+                        <td><input class="button" type="button" value="6" onclick="calculate(6)"></td>
+                        <td><input class="button" type="button" value="+" onclick="calculate('+')"></td>
+                </tr>
+                 <tr>
+                        <td><input class="button" type="button" value="1" onclick="calculate(1)"></td>
+                        <td><input class="button" type="button" value="2" onclick="calculate(2)"></td>
+                        <td><input class="button" type="button" value="3" onclick="calculate(3)"></td>
+                        <td rowspan="2"><input class="equalButton" type="button" value="=" onclick="calculate1('=')"></td>
+              </tr>
+                <tr>
+                       <td><input class="button" type="button" value="%" onclick="calculate('%')"></td>
+                       <td><input class="button" type="button" value="0" onclick="calculate('0')"></td>
+                       <td><input class="button" type="button" value="." onclick="calculate('.')"> </td>
+                        
+                </tr>
+
+            </table>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

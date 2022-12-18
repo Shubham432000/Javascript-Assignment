@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+margin-left: 600px;
+margin-top: 200px;
+border: 1px solid yellow;
+width: 350px;
+height: 350px;
+background-color: yellow;
+}
+.head1{
+    margin-left: 50px;
+    margin-top: 20px;
+   
+}
+
+.head2{
+    height: 80px;
+    width: 200px;
+}
+.head3{
+    margin-top: 40px;
+    font-size: 17px;
+}
+
+.head5{
+    margin-top: 20px;
+    font-size: 17px;
+}
+.head6{
+    margin-top: 20px;
+    font-size: 17px;
+}
+.head7{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.head8{
+    font-size: 20px;
+    color: red;
+}
+button{
+    margin-top: 20px;
+}
+.btn1{
+    padding: 7px 7px;
+    background-color: red;
+    border: 1px solid red;
+    margin-top: 40px;
+    color: white;
+}
+.btn2{
+    padding: 7px 7px;
+    margin-left: 20px;
+    background-color: violet;
+    border: 1px solid violet;
+    margin-top: 40px;
+}
