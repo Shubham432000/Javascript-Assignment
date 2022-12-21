@@ -1,23 +1,29 @@
-function show() {
-  let dob = document.getElementById("date1").value;
-  console.log(dob);
+let dob = document.getElementById("dob");
+let errAge = document.querySelector(".age");
 
-  (day = new Date(dob)), console.log(day);
-  time = day.getTime();
-  console.log(time);
-  (today = new Date()), (timenow = today.getTime()), (value = timenow - time);
-  console.log(value);
+const ageDisplay = errAge.innerHTML;
+const ageStyle = errAge.style;
 
-  year = Math.floor(value / (1000 * 60 * 60 * 24 * 365.25));
-  console.log(year + "year");
-  month = Math.floor(
-    (value % (1000 * 60 * 60 * 24 * 30.4375)) / (1000 * 60 * 60 * 24)
-  );
-  console.log(month + "month");
-  days = Math.floor((value % (1000 * 60 * 60 * 24))/(1000*60*60)) ;
-  console.log(days + "day");
+dob.addEventListener("input", ()=>{
+    let bd = new Date (dob.value).getTime();
+    let today = Date.now();
+    if(bd >= today){
+        errAge.innerText = "Please Enter proper Date of Birth!!"
+        errAge.style.color = "red"
+        return false;
+    } 
+    else{
+        errAge.innerHTML = ageDisplay;
+        errAge.style = ageStyle;
+        let dateDiff = (today - bd);
+        let dayDif = Math.floor(dateDiff/(1000*60*60*24))
+        let year = Math.floor(dayDif/365)
+        let yday = dayDif%365;
+        let month = Math.floor(yday/30);
+        let day = yday%30;
 
-  document.getElementById("year").innerHTML = year + "year";
-  document.getElementById("month").innerHTML = month + "month";
-  document.getElementById("days").innerHTML = days + "days";
-}
+    document.getElementById("years").innerText = year;
+    document.getElementById("months").innerText = month;
+    document.getElementById("days").innerText = day;  
+    }  
+})
