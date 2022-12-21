@@ -7,7 +7,7 @@ This simple project counts how many times you have clicked the button.
 
 **Screenshot:** 
 
-![ctb](./Images/clickDBtn.png)
+![ctb](./image/age-calculator.PNG)
 
 **Source Code:** [Here](./Projects/1-ClickTheButton/)
 
@@ -19,7 +19,7 @@ This simple project counts how many times you have clicked the button.
 
 **Screenshot:** 
 
-![ctb](./Images/clickDBtn.png)
+![ctb](./image/budget.PNG)
 
 **Source Code:** [Here](./Projects/1-ClickTheButton/)
 
@@ -30,7 +30,7 @@ This simple project counts how many times you have clicked the button.
 
 **Screenshot:** 
 
-![ctb](./Images/clickDBtn.png)
+![ctb](./image/calculator.PNG)
 
 **Source Code:** [Here](./Projects/1-ClickTheButton/)
 
@@ -43,7 +43,7 @@ This simple project counts how many times you have clicked the button.
 
 **Screenshot:** 
 
-![ctb](./Images/clickDBtn.png)
+![ctb](./image/clickthebutton.PNG)
 
 **Source Code:** [Here](./Projects/1-ClickTheButton/)
 
@@ -55,7 +55,7 @@ This is a basic counter that can count a single degit increment and decrement fu
 
 **Screenshot:** 
 
-![count](./Images/counter.png)
+![count](./image/countdown.PNG)
 
 
 **Source Code:** [Here](./Projects/2-BasicCounter/)
@@ -68,7 +68,7 @@ This web app shows the output of what you type in the input textbox in real time
 
 **Screenshot:** 
 
-![rps](./Images/cwyt.png)
+![rps](./image/form-validation.PNG)
 
 
 **Source Code:** [Here](./Projects/3-SeeWhatYouType/)
@@ -82,7 +82,7 @@ In this web app, if you click the button the colour of the box will change into 
 
 **Screenshot:** 
 
-![rps](./Images/colorChange.png)
+![rps](./image/inc-dec.PNG)
 
 **Source Code:** [Here](./Projects/4-ColorChanger/)
 
@@ -94,7 +94,7 @@ In this project, I have built a web app that converts any string into Camel Case
 
 **Screenshot:** 
 
-![rps](./Images/formatChanger.png)
+![rps](./image/joke-gen.PNG)
 
 **Source Code:** [Here](./Projects/5-NameConversion/)
 
@@ -106,7 +106,7 @@ This web application can calculates your age accurately in Years Months and Days
 
 **Screenshot:** 
 
-![rps](./Images/ageCalc.png)
+![rps](./image/loan-calc.PNG)
 
 
 **Source Code:** [Here](./Projects/6-Age-Calculator/)
@@ -117,7 +117,7 @@ This web application can calculates your age accurately in Years Months and Days
 This is a classic and very popular game among children. 
 
 **Screenshot:** 
-![rps](./Images/rock-paper-scissor.png)
+![rps](./image/palidrome.PNG)
 
 **Source Code:** [Here](./Projects/7-RockPaperScissor/)
 
@@ -128,7 +128,7 @@ This is a classic and very popular game among children.
 This is a password generator app where users can decide How long password they need and What type of charecters should be included in the password. Also there is a button to copy the password in clipboard.
 
 **Screenshot:** 
-![rps](./Images/passGen.png)
+![rps](./image/see-what-you-type.PNG)
 
 **Source Code:** [Here](./Projects/8-password-generator/)
 
@@ -138,7 +138,7 @@ This is a password generator app where users can decide How long password they n
 This is a TODO app which also has Edit and Delete options on each task.
 
 **Screenshot:** 
-![todo](./Images/todo.png)
+![todo](./image/stopwatch.PNG)
 
 **Source Code:** [Here](./Projects/9-Todo/)
 
@@ -149,7 +149,7 @@ This is a FAQ page which allows user to view or hide any answer of faq questions
 
 **Screenshot:** 
 
-![accord](./Images/accordian.png)
+![accord](./image/todo.PNG)
 
 **Source Code:** [Here](./Projects/10-Accordion/)
 
@@ -160,7 +160,7 @@ This app takes binary number as input and returns it's Decimal value.
 
 **Screenshot:** 
 
-![btdc](./Images/binary2dec.png)
+![btdc](./image/typinggame.PNG)
 
 **Source Code:** [Here](./Projects/11-Binary2Decimal/)
 
@@ -171,7 +171,7 @@ This is a normal Stopwatch. I have designed th UI of this app and used Tailwind 
 
 **Screenshot:** 
 
-![stopwatch](./Images/stopwatch.png)
+![stopwatch](./image/word-count-app.PNG)
 
 **Source Code:** [Here](./Projects/12-stopwatch/)
 
