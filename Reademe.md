@@ -3,36 +3,37 @@
 >In this repository, I will update all the projects I have done and will be doing in future on Javascript. I will update this repository as soon as I make a new project. Here are the list of projects: 
 
 ## **1. Age Calculator:** 
-This simple project counts how many times you have clicked the button.
+This web application can calculates your age accurately in Years Months and Days by getting your date of birth.
+
 
 **Screenshot:** 
 
 ![ctb](./image/age-calculator.PNG)
 
-**Source Code:** [Here](./Projects/1-ClickTheButton/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/Age-Calculator)
 
 **Live link:** [Here](https://charming-haupia-75fa83.netlify.app) 
 
 
 ## **2. Budget-App:**
-This simple project counts how many times you have clicked the button.
+This simple project of How Calculate The Budget
 
 **Screenshot:** 
 
 ![ctb](./image/budget.PNG)
 
-**Source Code:** [Here](./Projects/1-ClickTheButton/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/Budget-App)
 
 **Live link:** [Here](https://jovial-belekoy-da5d48.netlify.app/) 
 
 ## **3. Calculator:**
-This simple project counts how many times you have clicked the button.
+This simple project of calculator
 
 **Screenshot:** 
 
 ![ctb](./image/calculator.PNG)
 
-**Source Code:** [Here](./Projects/1-ClickTheButton/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/Calculator)
 
 **Live link:** [Here](https://gentle-caramel-fe0eca.netlify.app) 
 
@@ -45,12 +46,12 @@ This simple project counts how many times you have clicked the button.
 
 ![ctb](./image/clickthebutton.PNG)
 
-**Source Code:** [Here](./Projects/1-ClickTheButton/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/Click-the-Button)
 
 **Live link:** [Here](https://prismatic-daffodil-a8f4b8.netlify.app) 
 
 ## **5. Conutdown-APP:** 
-This is a basic counter that can count a single degit increment and decrement function.
+This is a basic project of how to countdown
 
 
 **Screenshot:** 
@@ -58,50 +59,50 @@ This is a basic counter that can count a single degit increment and decrement fu
 ![count](./image/countdown.PNG)
 
 
-**Source Code:** [Here](./Projects/2-BasicCounter/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/countdown-app)
 
 **Live link:** [Here](https://tourmaline-griffin-13d488.netlify.app)
 
 ## **6. Form-Validation:**
 This web app shows the output of what you type in the input textbox in real time. Itcan also count the total number of words in the input textbox.
 
+This is a basic project form validation of input filed
 
 **Screenshot:** 
 
 ![rps](./image/form-validation.PNG)
 
 
-**Source Code:** [Here](./Projects/3-SeeWhatYouType/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/Form-validation)
 
 **Live link:** [Here](https://incomparable-elf-4f5b5e.netlify.app)
 
 ## **7. Increment-Decrement:** 
 
-In this web app, if you click the button the colour of the box will change into another random colour. 
+In this web app, increase and decrease the app
 
 
 **Screenshot:** 
 
 ![rps](./image/inc-dec.PNG)
 
-**Source Code:** [Here](./Projects/4-ColorChanger/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/Increment-Decrement)
 
 **Live link:** [Here](https://statuesque-beignet-d1e5fe.netlify.app)
 
 ## **8. Joke-Generator:** 
-In this project, I have built a web app that converts any string into Camel Case, Pascal Case:, Snake Case, Screaming Snake Case, Kebab Case and Screaming Kebab Case.
-
+In this project, generate the joke through api
 
 **Screenshot:** 
 
 ![rps](./image/joke-gen.PNG)
 
-**Source Code:** [Here](./Projects/5-NameConversion/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/Joke-Generator)
 
 **Live link:** [Here](https://comforting-pudding-ae3cce.netlify.app)
 
 ## **9. Loan-Calculator:** 
-This web application can calculates your age accurately in Years Months and Days by getting your date of birth.
+This web application can calculates the Interest and total
 
 
 **Screenshot:** 
@@ -109,7 +110,7 @@ This web application can calculates your age accurately in Years Months and Days
 ![rps](./image/loan-calc.PNG)
 
 
-**Source Code:** [Here](./Projects/6-Age-Calculator/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/Loan-Calculator)
 
 **Live link:** [Here](https://dulcet-torte-2528d1.netlify.app)
 
@@ -119,61 +120,61 @@ This is a classic and very popular game among children.
 **Screenshot:** 
 ![rps](./image/palidrome.PNG)
 
-**Source Code:** [Here](./Projects/7-RockPaperScissor/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/Palindrome-Checker-Game)
 
 **Live link:** [Here](https://leafy-cheesecake-d25ddc.netlify.app)
 
 
 ## **11. See-What-You-type:** 
-This is a password generator app where users can decide How long password they need and What type of charecters should be included in the password. Also there is a button to copy the password in clipboard.
+This is a project what you type this are shown
 
 **Screenshot:** 
 ![rps](./image/see-what-you-type.PNG)
 
-**Source Code:** [Here](./Projects/8-password-generator/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/See-What-you-type)
 
 **Live link:** [Here](https://voluble-faun-1b3619.netlify.app)
 
 ## **12. Stop-watch-App:** 
-This is a TODO app which also has Edit and Delete options on each task.
+This is a stop watch app and calculate the time
 
 **Screenshot:** 
 ![todo](./image/stopwatch.PNG)
 
-**Source Code:** [Here](./Projects/9-Todo/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/StopWatch-app)
 
 **Live link:** [Here](https://stellular-kelpie-719d76.netlify.app)
 
 ## **13. TODO-App:** 
-This is a FAQ page which allows user to view or hide any answer of faq questions by clicking on a button.
+This is a TODO app which also has Edit and Delete options on each task.
 
 **Screenshot:** 
 
 ![accord](./image/todo.PNG)
 
-**Source Code:** [Here](./Projects/10-Accordion/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/To-Do-app)
 
 **Live link:** [Here](https://merry-caramel-de93c0.netlify.app)
 
 ## **14.Typing-Game:** 
-This app takes binary number as input and returns it's Decimal value.
+This app to shows how many character are you type
 
 **Screenshot:** 
 
-![btdc](./image/typinggame.PNG)
+![image](./image/typinggame.PNG)
 
-**Source Code:** [Here](./Projects/11-Binary2Decimal/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/Typing-Game)
 
 **Live link:** [Here](https://merry-brioche-30a1ac.netlify.app)
 
 ## **15. Word-Cont-App:** 
-This is a normal Stopwatch. I have designed th UI of this app and used Tailwind CSS for that. This app is mobile responsive.
+This is a app to shows the no of character and words
 
 **Screenshot:** 
 
-![stopwatch](./image/word-count-app.PNG)
+![image](./image/word-count-app.PNG)
 
-**Source Code:** [Here](./Projects/12-stopwatch/)
+**Source Code:** [Here](https://github.com/Shubham432000/Javascript-Assignment/tree/master/word-count-app)
 
 **Live link:** [Here](https://helpful-brioche-3ec2ae.netlify.app)
 
