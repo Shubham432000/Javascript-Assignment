@@ -3,13 +3,13 @@
 function interst(){
   
 
-    let princ = parseInt(document.getElementById("prin").value)
+    let principle = parseInt(document.getElementById("prin").value)
 let rate = document.getElementById("rate").value
 let time = document.getElementById("time").value
 
-    let SI = (princ * time*rate  )/100;
+    let SI = (principle * time*rate  )/100;
 
-    const total = (princ * time*rate  )/100 + princ
+    const total = (principle * time*rate  )/100 + principle
 
  // let  total=  princ+SI
 
