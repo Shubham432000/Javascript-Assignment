@@ -15,11 +15,17 @@ dob.addEventListener("input", () => {
     errAge.innerHTML = ageDisplay;
     errAge.style = ageStyle;
     let dateDiff = today - birthdate;
+    console.log("dateDiff", dateDiff);
     let dayDif = Math.floor(dateDiff / (1000 * 60 * 60 * 24));
+    console.log("daydif", dayDif);
     let year = Math.floor(dayDif / 365);
+    console.log("year", year);
     let yday = dayDif % 365;
+    console.log("yday", yday);
     let month = Math.floor(yday / 30);
+    console.log("month", month);
     let day = yday % 30;
+    console.log("day", day);
 
     document.getElementById("years").innerText = year;
     document.getElementById("months").innerText = month;
